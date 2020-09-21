@@ -70,7 +70,28 @@ footer nav {
 
 footer ul {
     width: 350px;
+    display: flex;
+    justify-content: start;
+    padding: 0;
+    margin-bottom: 20px ;
+    margin-left: 31px;
+
 } 
+footer ul li {
+    margin-right: 40px;
+}
+footer div {
+    margin-bottom: 20px;
+    margin-right: 185px;
+}
+footer span {
+    margin-bottom: 20px;
+    margin-right: 28px;
+}
+
+footer ul li a  {
+    border
+}
 
 button {
     background-color: #00afdb;
@@ -363,9 +384,6 @@ a:hover {
 .downloadWrap button {
     display: flex;
     justify-content: space-around;
-}
-.downloadWrap div {
-    /* width: 59px; */
 }
 
 .rappresent p,
