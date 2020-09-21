@@ -175,7 +175,7 @@ a:hover {
     
     background-size: cover;
     background-position: center 100%;
-    background-image: url('/webdev/assets/1st_screen/bg-image-wrapper/bg-image.png');
+    background-image: url('webdev/assets/1st_screen/bg-image-wrapper/bg-image.png');
     
     display: flex;
     align-items: center;
@@ -321,7 +321,7 @@ a:hover {
     height: 524px;
     text-align: center;
     color: white;
-    background-image: url('/webdev/assets/5/pexels.png');
+    background-image: url('webdev/assets/5/pexels.png');
     background-size: cover;
     background-position: center center;
     display: flex;
