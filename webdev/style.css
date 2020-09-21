@@ -175,7 +175,7 @@ a:hover {
     
     background-size: cover;
     background-position: center 100%;
-    background-image: url('webdev/assets/1st_screen/bg-image-wrapper/bg-image.png');
+    background-image: url('./assets/1st_screen/bg-image-wrapper/bg-image.png');
     
     display: flex;
     align-items: center;
@@ -214,7 +214,7 @@ a:hover {
     flex-flow: row;
     /* margin-left: 16px; */
     /* margin-right: 269px; */
-    /* background-image: url('/webdev/assets/2/bg-2.png'); */
+    /* background-image: url('/./assets/2/bg-2.png'); */
 }
 
 .rappresent div {
@@ -321,7 +321,7 @@ a:hover {
     height: 524px;
     text-align: center;
     color: white;
-    background-image: url('webdev/assets/5/pexels.png');
+    background-image: url('./assets/5/pexels.png');
     background-size: cover;
     background-position: center center;
     display: flex;
