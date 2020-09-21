@@ -35,7 +35,7 @@ ul {
     align-items: center;
 }
 
-nav ul li:nth-child(3):hover {
+.headerNav li:nth-child(3):hover {
     border: none;
 }
 
@@ -89,9 +89,6 @@ footer span {
     margin-right: 28px;
 }
 
-footer ul li a  {
-    border
-}
 
 button {
     background-color: #00afdb;
